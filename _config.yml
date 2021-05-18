@@ -1,2 +1,16 @@
 theme: jekyll-theme-minimal
 title: Saahil's Resume
+name: Saahil Thukral
+
+#Links to social media accounts
+primarylinks:
+- title: LinkedIn
+  url: https://www.linkedin.com/in/saahil-thukral-44a0771b4/
+  
+skills: 
+ - Python
+ - C
+ - R
+ - MongoDB
+ - SQL
+ - Linux
