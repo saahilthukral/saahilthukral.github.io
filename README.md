@@ -1,3 +1,5 @@
+
+
 # Kross Jekyll
 
 Kross Jekyll Creative Portfolio Template ported from [Kross HTML Template](https://themefisher.com/products/kross/)
@@ -10,14 +12,6 @@ Kross Jekyll Creative Portfolio Template ported from [Kross HTML Template](https
 
 [Live Preview](http://demo.themefisher.com/kross).
 
-## Setup
-
-To start your project, fork this repository
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
-
-Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
-
-## Customize
 
 Things you can customize in `_data/settings.yml` (no HTML/CSS):
 
