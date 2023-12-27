@@ -87,10 +87,10 @@ work-process:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Python, color: "#fdb137", value: "90%" }
+  - { name: R, color: "#9473e6", value: "60%" }
+  - { name: Javascript, color: "#bdecf6", value: "80%" }
+  - { name: Linux, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
