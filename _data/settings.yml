@@ -39,8 +39,8 @@ hero:
   hero-title: Hi! I’m <br> Saahil <br>
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
+  # - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-file", link: "#" } # Resume
   - { icon: "ti-github", link: "#" }
   - { icon: "ti-linkedin", link: "www.linkedin.com/in/saahil-thukral" }
 
