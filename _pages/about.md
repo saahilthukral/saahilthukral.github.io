@@ -2,8 +2,8 @@
 layout: about
 title: About Me
 author: Saahil Thukral
-# image: assets/images/about/author.jpg
-# signature: assets/images/about/signature.png
+image: assets/images/about/author.jpg
+signature: assets/images/about/signature.png
 ---
 
 Hey there! Welcome to my corner of the web. I'm Saahil, and I'm all about diving into the exciting world of data science. It's not just about numbers and algorithms for me – it's about turning data into something meaningful and useful.
