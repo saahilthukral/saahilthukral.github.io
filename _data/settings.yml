@@ -16,7 +16,7 @@ menu:
   # - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
-
+- { name: Resume, link: "/resume" }
 #-------------------------------
 # Google Analytics Section
 
