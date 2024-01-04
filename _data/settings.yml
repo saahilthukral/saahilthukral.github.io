@@ -45,8 +45,8 @@ hero:
 social:
   - { icon: "ti-facebook", link: "#" }
   - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-linkedin", link: "#" }
+  - { icon: "ti-github", link: "#" }
+  - { icon: "ti-linkedin", link: "www.linkedin.com/in/saahil-thukral" }
 
 #-------------------------------
 # About (Section and Page)
