@@ -16,7 +16,7 @@ menu:
   # - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
-- { name: Resume, link: "/resume" }
+
 #-------------------------------
 # Google Analytics Section
 
@@ -54,7 +54,7 @@ blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
-#a
+
 # Work Process Section
 # work-process:
 #   - title: "Research and Plan"
