@@ -2,7 +2,7 @@
 layout: post
 title:  An introduction to Statistics and it's concepts
 date:   2024-04-15 11:12:55 +0600
-image:  /assets/images/blog/post-2.jpg
+image:  /assets/images/blog/a.jpeg
 author: Saahil Thukral
 tags:   Statistics
 ---
