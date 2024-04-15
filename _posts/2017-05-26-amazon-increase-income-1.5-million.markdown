@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Statistics stuff
-date:   2023-04-26 11:12:55 +0600
+title:  An introduction to Statistics and it's concepts
+date:   2024-04-15 11:12:55 +0600
 image:  /assets/images/blog/post-2.jpg
-author: uixgeek
-tags:   UX design
+author: Saahil Thukral
+tags:   Statistics
 ---
 
 **An introduction to statistics and it's main concepts**
