@@ -105,16 +105,16 @@ experience:
       organization: "University of Toronto",
     }
   - {
-      name: Open Source Contributor,
+      name: Data Science Intern,
       icon: "icon-2.png",
-      date: "Mar 2021 - Present",
-      organization: "AUGMEDIX",
+      date: "May 2023 - Mar 2024",
+      organization: "MFL Transportation",
     }
   - {
-      name: Senior UI Designer,
+      name: Front-End Web Developer Intern,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "April 2021 - Jul 2021",
+      organization: "SAN Softwares",
     }
 
 #-------------------------------
@@ -195,7 +195,7 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "www.google.com"
     portfolio-type:
       - type: "design"
       - type: "illustration"
