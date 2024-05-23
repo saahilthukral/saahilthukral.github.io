@@ -107,11 +107,11 @@ experience:
   - {
       name: Data Science Intern,
       icon: "icon-2.png",
-      date: "May 2023 - Mar 2024",
+      date: "May 2023 - Jan 2024",
       organization: "MFL Transportation",
     }
   - {
-      name: Front-End Web Developer Intern,
+      name: Developer Intern,
       icon: "icon-3.png",
       date: "April 2021 - Jul 2021",
       organization: "SAN Softwares",
@@ -173,7 +173,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://github.com/saahilthukral/Annual-Reported-Crimes-in-Toronto.git"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
