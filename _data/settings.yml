@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Hello I am Saahil. I am currently a student of the University of Toronto and an aspiring data scientist
+blurb: Hello I am Saahil. I am currently a Senior Settlements Analyst at the Ontario Financing Authority.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -99,22 +99,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Teaching Assistant,
+      name: Senior Settlements Analyst (previously Officer),
       icon: "icon-1.png",
-      date: "Sep 2022 - Present",
-      organization: "University of Toronto",
+      date: "April 2025 - Present",
+      organization: "Ontario Financing Authority",
     }
   - {
-      name: Data Science Intern,
+      name: Data Analyst,
       icon: "icon-2.png",
-      date: "May 2023 - Jan 2024",
-      organization: "MFL Transportation",
+      date: "August 2024 - April 2025",
+      organization: "Ontario Financing Authority",
     }
   - {
-      name: Developer Intern,
+      name: Data Scientist,
       icon: "icon-3.png",
-      date: "April 2021 - Jul 2021",
-      organization: "SAN Softwares",
+      date: "June 2024 - August 2024",
+      organization: "Reliance Home Comfort",
     }
 
 #-------------------------------
